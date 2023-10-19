@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is CodeLib.h</h1>
+<h1 align="center">Hi 👋, This is CodeExplorer</h1>
 <h3 align="center">An interactive platform for learning C programming language</h3>
 
 <p align="center">
