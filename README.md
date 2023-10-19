@@ -58,7 +58,7 @@ Contributions to this project are welcome! Feel free to submit a pull request if
 
 ## Get in Touch 📞
 
-If you have any questions, suggestions, or feedback, don't hesitate to reach out to us. You can contact me on [LinkedIn](www.linkedin.com/in/saurabh-varule-scoe) 
+If you have any questions, suggestions, or feedback, don't hesitate to reach out to us. You can contact me on [LinkedIn](https://www.linkedin.com/in/saurabh-varule-scoe/) 
 
 ## Languages and Tools
 
