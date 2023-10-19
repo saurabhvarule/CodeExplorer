@@ -2,7 +2,7 @@
 <h3 align="center">An interactive platform for learning C programming language</h3>
 
 <p align="center">
-Codelib.h is a comprehensive and user-friendly desktop application designed to facilitate the learning and understanding of the C programming language. Developed using C and GTK (GIMP Toolkit), Codelib.h provides a valuable resource for individuals looking to master C programming, whether they are beginners aiming to grasp the basics or experienced programmers seeking to refresh their knowledge.
+CodeExplorer is a comprehensive and user-friendly desktop application designed to facilitate the learning and understanding of the C programming language. Developed using C and GTK (GIMP Toolkit), CodeExplorer provides a valuable resource for individuals looking to master C programming, whether they are beginners aiming to grasp the basics or experienced programmers seeking to refresh their knowledge.
 </p>
 
 <h4 align = "left">Key Features:</h4>
@@ -58,7 +58,7 @@ Contributions to this project are welcome! Feel free to submit a pull request if
 
 ## Get in Touch 📞
 
-If you have any questions, suggestions, or feedback, don't hesitate to reach out to us. You can contact me on [LinkedIn](www.linkedin.com/in/jayjathar1409) 
+If you have any questions, suggestions, or feedback, don't hesitate to reach out to us. You can contact me on [LinkedIn](www.linkedin.com/in/saurabh-varule-scoe) 
 
 ## Languages and Tools
 
